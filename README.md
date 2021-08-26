@@ -28,7 +28,9 @@
          
       P/s: To stop autocheck mode, please use pupdate.setAutoCheck(false)
         
-        
+ **Important**:
+ 
+ 	This is the beta version, so there may be some errors. If you find it, please contact me to fix it. Thanks!
 
 
 
